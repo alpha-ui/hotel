@@ -237,7 +237,7 @@ h1 {
 /*** Youtube Video ***/
 .video {
     position: relative;
-    height: 500px;
+    height: 320px;
     width: auto;
     left: 20px;
     background-position: center center;
@@ -526,7 +526,7 @@ img.gallery {
 @media (max-width: 480px) {
     .video {
         position: relative;
-        height: 250px;
+        height: 125px;
         width: auto;
         left: 20px;
         background-position: center center;
